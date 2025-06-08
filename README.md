@@ -1,6 +1,6 @@
 # About me
 
-I am Andreas Leonidou from Cyprus and since I was 12 years old, when I first found out about programming, programming became my passion and my main way of expressing my creativity and intrinsic need to create something on my own.
+I am Andreas Leonidou from Cyprus and since I was twelve years old, when I first found out about programming, programming became my passion and my main way of expressing my creativity and intrinsic need to create something on my own.
 <br><br>
 ## Experience
 - **Competitive Programming:** <br> I am a competitive programming exeprt on Codeforces. Ranked 3rd nationally in the COI (Cyprus Olympiad in Informatics) twice and as a result had the opportunity to compete in the IOI (International Olympiad in Informatics) and BOI (Balkan Olympiad in Informatics) in 2023 and 2024. My best competitive programming achievement was receiving an Honorable Mention in the IOI 2024 in Egypt.
