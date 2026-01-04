@@ -14,7 +14,7 @@ I am Andreas Leonidou from Cyprus and since I was twelve years old, when I first
 ## Programming Languages
 - Main: C++
 - Fluent: C, C# for Unity, Python
-- Used at least once: Java, Visual Basic, Matlab, Javascript
+- Some Experience: Java, Visual Basic, Matlab, Javascript, Pascal
 <br><br>
 ## Currently...
 - I'm working on the 'Thalasat' team project which is a project for the VeneTo Stars Challenge 2025 (Supporting the Blue & Space Economy). Our project aims to use sattelite data to analyse, predict and ultimately prevent harmful sea phenomena like Algal Blooms or Coral Reefs.
