@@ -53,3 +53,5 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 - Email: leonidou.a24@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aleonidou/
 - Facebook Page: https://www.facebook.com/AndreasLeonidouGAMEDEV/
+- Instagram Page: https://www.instagram.com/al_game_dev/
+- Youtube Channel: https://www.youtube.com/@ALGameDeveloper
