@@ -1,28 +1,55 @@
-# About me
+## About
 
-I am Andreas Leonidou from Cyprus and since I was twelve years old, when I first found out about programming, programming became my passion and my main way of expressing my creativity and intrinsic need to create something on my own.
-<br><br>
-## Experience
-- **Competitive Programming:** <br> I am a competitive programming exeprt on Codeforces. Ranked 3rd nationally in the COI (Cyprus Olympiad in Informatics) twice and as a result had the opportunity to compete in the IOI (International Olympiad in Informatics) and BOI (Balkan Olympiad in Informatics) in 2023 and 2024. My best competitive programming achievement was receiving an Honorable Mention in the IOI 2024 in Egypt.
-- **Robotics:** <br> Built and programmed robots for years. I started off with LEGO Mindstorms competing three times in the national Robotex Coompetition where I failed spectacularly year after year. Then, I moved on to a new challange, the FTC (First Tech Challenge), were I was the team leader of my school's team. We managed to win the national FTC 2022 competition, and had the unique opportunity of competing in the FTC Championship international competition in Houston, Texas, USA.
-- **Game Development / App Development:** <br> Have developed multiple games from scratch using Unity and C#. Three of my projects that stand out are: the "Bounce-Run" casual video game which I published on the App Store and Play Store, the "MaClock" clock utility application which I published in the Mac App Store and the "ASP - Army Scheduler Project" which was is an application I made and contributed to the Cypriot National Guard highly automating the process of scheduling making daily scheduling much faster, more efficient and fairer.
-- **Other Programming Projects:**
-  - Etchical hacking: Experimented with low-level backdoor programs written in C. Also, written web-scraping programs with Python as part of some data mining and DoS attack projects I worked on.
-  - IPC (Inter-Process Communication): Used IPC techniques like threading, cloning, and pipes in a few programs I've written in C++.
-  - Socket Programming: Worked with low-level sockets in C.
-<br><br>
+I am a Computer Science undergraduate at Rice University with a strong background in algorithms, competitive programming, and systems-level software development. I enjoy building high-performance, real-world systems and tackling hard algorithmic problems, from optimization engines to robotics and data-driven applications.
+
+## Main Interests
+- Software Development
+- Algorithms & Data Structures
+- Robotics & Embedded Systems
+- AI & Machine Learning
+
+## Relevant Projects
+
+- **Army Scheduling Project (ASP) – (Desktop Application)**  
+  Developed a [C++ scheduling optimization engine](https://github.com/ALeonidou2005/asp-cpp-optimization-engine) using optimized brute-force and simulated annealing with geometric cooling; exported as a DLL and integrated into a Unity-based desktop application with an interactive UI.
+
+- **Thalasat – (Website)**  
+  Contributed to a Python-based backend for processing Copernicus satellite data (chlorophyll, sea surface temperature, salinity) to detect algal blooms and evaluate artificial reef effectiveness in the Mediterranean Sea. 
+
+- **MaClock & Bounce-Run – (Published Apps)**  
+  Developed, published and maintained a macOS utility app and mobile game, using Unity (C#). Reached 2,500+ total downloads across the App Store and Google Play.
+
+- **GPT-7 – (Olympiad in Informatics Problem-Setting)**  
+  Designed, [GPT-7](https://github.com/ALeonidou2005/COI-2026-gpt7-problemsetting), a competitive programming problem for the Cyprus Olympiad in Informatics (COI) 2026 Round A.
+
+- **FIRST Tech Challenge (FTC) – (Robotics)**  
+  Team lead and chief software/hardware engineer; Java-based control software for mecanum-wheel movement, tele-op control, and autonomous routines, tightly integrated with hardware systems.
+
+- **Robotex Maze Solver – (Robotics)**  
+  Developed an optimized [maze-solving flood-fill based algorithm](https://github.com/ALeonidou2005/robotex-maze-solver), in C, for autonomous maze solving for the Cyprus Robotex Competition.
+
+## Relevant Awards
+
+- 🏅 **IOI Honorable Mention**, International Olympiad in Informatics (IOI 2024)
+- 🥉 **3rd place nationally**, Cyprus Olympiad in Informatics (COI 2023, 2024)
+- 🤖 **1st place nationally**, FIRST Tech Challenge Cyprus (2022) Robotics Competition
+- 🌍 Represented Cyprus in **IOI 2023**, **IOI 2024**, **BOI 2023**, **BOI 2024**, and **FTC World Championship 2022**
+- 🛰️ **1st prize**, VeneToStars Challenge (European Space Technologies Competition) 2025
+
 ## Programming Languages
-- Main: C++
-- Fluent: C, C# for Unity, Python
-- Some Experience: Java, Visual Basic, Matlab, Javascript, Pascal
-<br><br>
+
+- **Expert:** C++
+- **Advanced:** C, C#, Python
+- **Intermediate:** Java, Bash, JavaScript, SQL
+
 ## Currently...
-- I'm working on the 'Thalasat' team project which is a project for the VeneTo Stars Challenge 2025 (Supporting the Blue & Space Economy). Our project aims to use sattelite data to analyse, predict and ultimately prevent harmful sea phenomena like Algal Blooms or Coral Reefs.
-- I'm learning web development and focus on improving my Python knowledge. Lately I've also took a deeper dive into Python's internals.
-<br><br>
+
+- Studying Computer Science at Rice University
+- Exploring AI & Machine Learning
+- Seeking Software Engineering or ML internships
+
 ## How to reach me
+
 - Email: leonidou.a24@gmail.com
 - LinkedIn: https://www.linkedin.com/in/aleonidou/
-- Instagram: https://www.instagram.com/andreas_leonidou_76/
-- Facebook: https://www.facebook.com/AndreasLeonidouGAMEDEV/
-
+- Facebook Page: https://www.facebook.com/AndreasLeonidouGAMEDEV/
