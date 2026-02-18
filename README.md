@@ -55,3 +55,4 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 - Facebook Page: https://www.facebook.com/AndreasLeonidouGAMEDEV/
 - Instagram Page: https://www.instagram.com/al_game_dev/
 - Youtube Channel: https://www.youtube.com/@ALGameDeveloper
+- Codeforces: https://codeforces.com/profile/ALeonidou
