@@ -46,7 +46,7 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 
 - Studying Computer Science at Rice University
 - Exploring AI & Machine Learning
-- Seeking Software Engineering or ML internships
+- Seeking Software Engineering and ML internships
 
 ## How to reach me
 
