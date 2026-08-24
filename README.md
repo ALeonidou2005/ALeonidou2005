@@ -48,9 +48,11 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 
 ## Currently...
 
-- Studying Computer Science at Rice University
-- Exploring AI & Machine Learning
-- Seeking Software Engineering and ML internships
+- Studying Computer Science at Rice University.
+- Working as COO at LIVIA, a startup I co-founded.
+- Building tools for high-frequency radars in the Rice Everitt Research Lab.
+- Working on robotics perception in the Rice Kavraki Lab.
+- Exploring Agentic AI Systems & Machine Learning
 
 ## How to reach me
 
@@ -58,5 +60,5 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 - LinkedIn: https://www.linkedin.com/in/aleonidou/
 - Facebook Page: https://www.facebook.com/AndreasLeonidouGAMEDEV/
 - Instagram Page: https://www.instagram.com/al_game_dev/
-- Youtube Channel: https://www.youtube.com/@ALGameDeveloper
+- YouTube Channel: https://www.youtube.com/@ALGameDeveloper
 - Codeforces: https://codeforces.com/profile/ALeonidou
