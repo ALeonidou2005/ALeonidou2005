@@ -11,8 +11,8 @@ I am a Computer Science undergraduate at Rice University with a strong backgroun
 
 ## Relevant Projects
 
-- **Agentic Language Translator - (Claude Code Plugin) - (Two Sigma Internship Project)**
-Developed an agentic translator to support an internal data-manipulation language migration during a 10-week Software Engineering Internship at Two Sigma. Built it as a Claude Code plugin using skills, hooks, MCPs, subagents, dynamic workflows, context management, and automated self-improvement feedback loops to improve the translation quality.
+- **Agentic Language Translator - (Claude Code Plugin) - (Two Sigma Internship Project)**  
+  Developed an agentic translator to support an internal data-manipulation language migration during a 10-week Software Engineering Internship at Two Sigma. Built it as a Claude Code plugin using skills, hooks, MCPs, subagents, dynamic workflows, context management, and automated self-improvement feedback loops to improve the translation quality.
 
 - **Army Scheduling Project (ASP) – (Desktop Application)**  
   Developed a [C++ scheduling optimization engine](https://github.com/ALeonidou2005/asp-cpp-optimization-engine) using optimized brute-force and simulated annealing with geometric cooling; exported as a DLL and integrated into a Unity-based desktop application with an interactive UI.
